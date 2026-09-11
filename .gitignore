@@ -1,0 +1,17 @@
+.idea
+*.iml
+out
+gen
+*.class
+*.jar
+*.war
+*.ear
+target/
+.vscode/
+Thumbs.db
+.DS_Store
+*.log
+*.tmp
+.env
+*.key
+*.pem
